@@ -16,10 +16,7 @@ Hi there! 👋
 <div align="center">
   <a href="https://github.com/isadarub">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isadarub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadarub&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-
-<br/>
 <div>
   <img width="50px" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
