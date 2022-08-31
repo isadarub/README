@@ -1,5 +1,5 @@
 Hi there! 👋
-### I'm Isabelle 
+### I'm INTJ, like Gandalf 🧙
 <hr/>
 
 #### A little about me 💁:
