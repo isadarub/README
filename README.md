@@ -8,6 +8,10 @@ Hi there! 👋
 * Originally I came from an academic formation on Biology, in which I research about evolutionary ecology of amphibians 🐸;
 * I'm twice exceptional (2e):  high abilities/gifted and autistic ♾️;
 * I have a beautiful family with my wife Leona and our two kids 💜;
+* After wrapping up a technical boot camp as a full-stack developer, I jumped into the big leagues of tech, where I've been taking on challenges and soaking up knowledge like a sponge.
+* I'm all about Clojure and JavaScript, especially digging into JavaScript for both backend and frontend development.
+* Currently, I'm putting my coding skills to work as a software engineer at Nubank, where I'm deep in the trenches of development.
+* On top of that, I'm also pursuing a postgraduate degree in Agile Software Development at UFPR, because hey, there's always room to grow, right?
 * You can contact me on **isadarub@gmail.com**;
 
 <div align="center">
