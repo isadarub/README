@@ -5,10 +5,7 @@ Hi there! 👋
 #### A little about me 💁:
 * My pronouns: She/Her/Hers;
 * You can call me just **Isa** or **Daru**;
-* I'm studying Web Full Stack in Labenu's bootcamp (already finished the front end module, so I'm currently studying the backend part);
-* I've been passed through HTML, CSS, JavaScript (React.JS, Next.JS, Node.JS, Knex.JS), TypeScript and SQL;
 * Originally I came from an academic formation on Biology, in which I research about evolutionary ecology of amphibians 🐸;
-* Technology is so heavily stealing my heart, that I'm really thinking about a second graduation, cause my really big love is learning;
 * I'm twice exceptional (2e):  high abilities/gifted and autistic ♾️;
 * I have a beautiful family with my wife Leona and our two kids 💜;
 * You can contact me on **isadarub@gmail.com**;
